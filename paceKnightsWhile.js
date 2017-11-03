@@ -1,7 +1,39 @@
-// paceKnightsWhile takes an input n and logs an appropriate output
+// paceKnightsWhile takes an input userInput and logs an appropriate output
+function paceKnightsWhile(userInput) {
+    let counter = 0;
 
-function paceKnightsWhile(n) {
-    // Put your code here
+    // Fill in the appropriate condition for the while loop
+    while(/*Put condition here*/) {
+        let div3;
+        let div5;
+
+        // First determine if userInput is divisible by 3
+        if () {
+            div3 = true;
+        } else {
+            div3 = false;
+        }
+
+        // Next determine if userInput is divisible by 5
+        if () {
+            div5 = true;
+        } else {
+            div5 = false;
+        }
+
+        // Now log the appropriate response to the console
+        if (div3 && div5) {
+
+        } else if (div3) {
+
+        } else if (div5) {
+
+        } else {
+
+        }
+
+        counter += 1;
+    }
 }
 
 paceKnightsWhile(20);

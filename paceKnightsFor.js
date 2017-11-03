@@ -1,7 +1,35 @@
-// paceKnightsFor takes an input n and logs an appropriate output
+// paceKnightsFor takes an input userInput and logs an appropriate output
+function paceKnightsFor(userInput) {
+    // Put in the appropraite conditions for the for loop
+    for (let val = /*Put condition here*/; val < /*Put condition here*/; val += 1) {
+        let div3;
+        let div5;
 
-function paceKnightsFor(n) {
-    // Put your code here
+        // First determine if userInput is divisible by 3
+        if () {
+            div3 = true;
+        } else {
+            div3 = false;
+        }
+
+        // Next determine if userInput is divisible by 5
+        if () {
+            div5 = true;
+        } else {
+            div5 = false;
+        }
+
+        // Now log the appropriate response to the console
+        if (div3 && div5) {
+
+        } else if (div3) {
+
+        } else if (div5) {
+
+        } else {
+
+        }
+    }
 }
 
 paceKnightsFor(20);
