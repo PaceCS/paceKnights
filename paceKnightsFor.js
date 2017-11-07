@@ -5,14 +5,14 @@ function paceKnightsFor(userInput) {
         let div3;
         let div5;
 
-        // First determine if userInput is divisible by 3
+        // First determine if val is divisible by 3
         if () {
             div3 = true;
         } else {
             div3 = false;
         }
 
-        // Next determine if userInput is divisible by 5
+        // Next determine if val is divisible by 5
         if () {
             div5 = true;
         } else {

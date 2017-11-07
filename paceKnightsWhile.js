@@ -1,20 +1,20 @@
 // paceKnightsWhile takes an input userInput and logs an appropriate output
 function paceKnightsWhile(userInput) {
-    let counter = 0;
+    let counter = 1;
 
     // Fill in the appropriate condition for the while loop
     while(/*Put condition here*/) {
         let div3;
         let div5;
 
-        // First determine if userInput is divisible by 3
+        // First determine if counter is divisible by 3
         if () {
             div3 = true;
         } else {
             div3 = false;
         }
 
-        // Next determine if userInput is divisible by 5
+        // Next determine if counter is divisible by 5
         if () {
             div5 = true;
         } else {
