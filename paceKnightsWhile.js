@@ -36,6 +36,7 @@ function paceKnightsWhile(userInput) {
     }
 }
 
+//Try out your function here.
 paceKnightsWhile(20);
 
 

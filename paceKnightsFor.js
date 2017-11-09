@@ -32,6 +32,7 @@ function paceKnightsFor(userInput) {
     }
 }
 
+//Try out your function here.
 paceKnightsFor(20);
 
 
